@@ -1,7 +1,7 @@
 # Possibility Theory: Applications in the Stock Market as an Indicator Source Code
 
 
-Welcome to the souce code for my paper: Possibility Theory: Applications in the Stock Market as an Indicator! This paper applies possibility theory, an alternative to probability theory, to combine multiple well-known stock indicators (Moving Average Crossover, Moving Average Convergence Divergence, and Relative Strength Index), resulting in a more effective outcome. This project was advised by Professor Daniel Schwarz from FSU, much thanks to him for mentoring me. A full detailed explanation of the logic behind the code can be found in the full paper linked below. There are some leverage simulations included here that I didn't end up using in the paper, but there are here as well. Here’s a quick rundown of what you’ll find in this project and how to get started.
+Welcome to the souce code for my paper: Possibility Theory: Applications in the Stock Market as an Indicator! This paper applies possibility theory, an alternative to probability theory, to combine multiple well-known stock indicators (Moving Average Crossover, Moving Average Convergence Divergence, and Relative Strength Index), resulting in a more effective outcome. This project was advised by Professor Daniel Schwarz from FSU, much thanks to him for mentoring me. A full detailed explanation of the logic behind the code can be found in the full paper linked below. There are some leverage simulations included here that I didn't end up using in the paper, but they are here as well. Here’s a quick rundown of what you’ll find in this project and how to get started.
 
 ## What’s in This Project
 
